@@ -1,0 +1,2 @@
+introgif.gif filter=lfs diff=lfs merge=lfs -text
+Jarvis_main1.exe filter=lfs diff=lfs merge=lfs -text
