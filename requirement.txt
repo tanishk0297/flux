@@ -1,0 +1,10 @@
+numpy
+pyttsx3
+speech_recognition
+bs4
+pyautogui
+plyer
+pygame
+speedtest
+PyQt5
+speedtest

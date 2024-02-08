@@ -12,7 +12,7 @@ def play_gif():
     root.lift()
     root.attributes('-fullscreen',True)
     global img
-    img = Image.open("C:\\Users\\HP\\OneDrive\\Desktop\\jarvis\\ui\\__1.gif")
+    img = Image.open("ironsnap2.gif")
     lbl = Label(root)
     lbl.place(x=0,y=0)
     i=0
